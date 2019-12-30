@@ -1,0 +1,2 @@
+first line using notepad
+second line using nano editor
